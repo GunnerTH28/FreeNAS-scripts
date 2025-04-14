@@ -160,7 +160,7 @@ Drive output includes: the device ID, temperature (in Centigrade), capacity, ser
 
 ```
 === CPU (2) ===
-CPU  1: [35C]
+CPU  1: [37C]
 CPU  2: [38C]
 
 === DRIVES ===
@@ -203,8 +203,8 @@ Drive output includes: the device ID, temperature (in Centigrade), capacity, dri
 bandit.spearfoot.net (IPMI host: falcon.ipmi.spearfoot.net)
 
 === CPU (2) ===
-CPU  1:  35C
-CPU  2:  39C
+CPU  1:  37C
+CPU  2:  28C
 
 === Drives ===
    da1:  20C [ 8.58 GB SSD] SN999999999999999999 INTEL SSDSC2BA100G3L 
